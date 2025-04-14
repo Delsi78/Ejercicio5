@@ -34,3 +34,7 @@ if "TIME" in df.columns:
     print(f"✅ Conversión completada. Archivo guardado como '{resultado}'.")
 else:
     print("❌ Error: No se encontró la columna 'TIME'. Verifica el archivo.")
+
+
+
+print("Si te esfuerzas triunfaras")
