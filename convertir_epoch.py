@@ -39,3 +39,4 @@ else:
 
 print("Si te esfuerzas triunfaras")
 print("Estudia y triunfaras")
+print("Se feliz")
